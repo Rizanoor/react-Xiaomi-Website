@@ -25,8 +25,8 @@ const Xiaomi = () => {
         Specs="Ultra Steady 108MP with OIS | Dimensity 8100-Ultra"
         CurrentPrice="Rp 5.999.000"
         PreviousPrice="Rp 6.599.000"
-        PhonePicDesktop="/public/smartphone/1desktop.webp"
-        PhonePicMobile="/public/smartphone/1mobile.webp"
+        PhonePicDesktop="/smartphone/1desktop.webp"
+        PhonePicMobile="/smartphone/1mobile.webp"
       ></BannerFlagship>
 
       <section

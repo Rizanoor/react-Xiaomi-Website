@@ -7,13 +7,13 @@ const XiaomiSection = () => {
     return (
         <>
             <BannerSeeAll SeriesName="Seri Xiaomi" Motto="Leading technology and innovation" />
-            <BannerFlagship Title="XIAOMI 12T 5G" Specs="Ultra Steady 108MP with OIS | Dimensity 8100-Ultra" CurrentPrice="Rp 5.999.000" PreviousPrice="Rp 6.599.000" PhonePicDesktop="/public/smartphone/1desktop.webp" PhonePicMobile="/public/smartphone/1mobile.webp"></BannerFlagship>
+            <BannerFlagship Title="XIAOMI 12T 5G" Specs="Ultra Steady 108MP with OIS | Dimensity 8100-Ultra" CurrentPrice="Rp 5.999.000" PreviousPrice="Rp 6.599.000" PhonePicDesktop="/smartphone/1desktop.webp" PhonePicMobile="/smartphone/1mobile.webp"></BannerFlagship>
             <section className="m-[9px] md:flex md:justify-evenly md:hover:cursor-pointer md:w-full">
-                <LongCard Title="Xioami 12" Specs="50MP Pro-grade camera | Snapdragon® 8 Gen 1" Discount="Diskon 30%" CurrentPrice="6.999.000" PreviousPrice="Rp9.999.000" classname="md:bg-[#D0D0D0] md:text-white" Status="Habis" PhonePic="/public/smartphone/2mobile.webp"></LongCard>
+                <LongCard Title="Xioami 12" Specs="50MP Pro-grade camera | Snapdragon® 8 Gen 1" Discount="Diskon 30%" CurrentPrice="6.999.000" PreviousPrice="Rp9.999.000" classname="md:bg-[#D0D0D0] md:text-white" Status="Habis" PhonePic="/smartphone/2mobile.webp"></LongCard>
 
                 <div className="grid grid-cols-2 gap-2 mt-2 md:mt-0 md:h-96">
-                    <ShortCard Title="Xiaomi 12 Pro" Specs="Ori Grade triple 50MP Camera | Snapdragon® Gen 1" StartingPrice="6.999.000" PhonePic="/public/smartphone/3amobile.webp" Button="md:my-[14px] md:flex md:gap-1"></ShortCard>
-                    <ShortCard Title="Xiaomi 12T 5G" Specs="Ultra Stable 108MP Main Camera with OIS" StartingPrice="5.999.000" PreviousPrice="Rp 6.599.000" Discount="9%" DiscountBorder="text-[#ff6900] border border-[#ff6900]" PhonePic="/public/smartphone/3bmobile.webp" Button="md:my-[14px] md:flex md:gap-1"></ShortCard>
+                    <ShortCard Title="Xiaomi 12 Pro" Specs="Ori Grade triple 50MP Camera | Snapdragon® Gen 1" StartingPrice="6.999.000" PhonePic="/smartphone/3amobile.webp" Button="md:my-[14px] md:flex md:gap-1"></ShortCard>
+                    <ShortCard Title="Xiaomi 12T 5G" Specs="Ultra Stable 108MP Main Camera with OIS" StartingPrice="5.999.000" PreviousPrice="Rp 6.599.000" Discount="9%" DiscountBorder="text-[#ff6900] border border-[#ff6900]" PhonePic="/smartphone/3bmobile.webp" Button="md:my-[14px] md:flex md:gap-1"></ShortCard>
                 </div>
             </section>
         </>
