@@ -34,7 +34,7 @@ const BannerFlagship = (props) => {
               <a href="/product/#">Beli Sekarang</a>
             </button>
             <button className="border border-black p-2 px-5 rounded-lg text-[12px] font-normal leading-[14px] md:text-[24px] md:leading-[29px] md:border-none md:hover:underline">
-              Learn More >
+              Learn More
             </button>
           </div>
         </div>

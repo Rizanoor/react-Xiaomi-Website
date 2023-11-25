@@ -96,7 +96,7 @@ body {
 .menu > li {
   padding: 0.25rem;
   margin: 0.3rem;
-  width: fill;
+  width: stretch;
   text-align: center;
   cursor: pointer;
   font-size: 0.9rem;

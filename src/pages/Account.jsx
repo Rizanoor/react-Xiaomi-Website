@@ -1,6 +1,6 @@
 import React from "react";
 import Bannerleft from "/account/bannerleft.jpg";
-import Logo from "../../public/logo.svg";
+import Logo from "../assets/logo.svg";
 import AccountForm from "../components/organism/Account/AccountForm";
 
 const Account = () => {

@@ -2,17 +2,17 @@ import React from "react";
 import "./SiteGoods.css";
 import SiteGoodsType from "../../../molecule/Redmi/SiteGoodsType/SiteGoodsType";
 
-import RedmiNote11 from "../../../../../public/redmi/redmi-note11.webp";
-import RedmiNote11Pro from "../../../../../public/redmi/redmi-note11pro.webp";
-import RedmiNote11Pro5G from "../../../../../public/redmi/redmi-note11pro5G.webp";
-import Redmi102022 from "../../../../../public/redmi/redmi10-2022.webp";
-import Redmi105G from "../../../../../public/redmi/redmi10-5g.webp";
-import Redmi10A from "../../../../../public/redmi/redmi10a.webp";
-import Redmi10C from "../../../../../public/redmi/redmi10c.webp";
-import Redmi12C from "../../../../../public/redmi/redmi12c.webp";
-import Redmi9C from "../../../../../public/redmi/redmi9c.webp";
-import RedmiA1 from "../../../../../public/redmi/redmiA1.webp";
-import RedmiA2 from "../../../../../public/redmi/redmiA2.webp";
+import RedmiNote11 from "../../../../assets/redmi/redmi-note11.webp";
+import RedmiNote11Pro from "../../../../assets/redmi/redmi-note11pro.webp";
+import RedmiNote11Pro5G from "../../../../assets/redmi/redmi-note11pro5G.webp";
+import Redmi102022 from "../../../../assets/redmi/redmi10-2022.webp";
+import Redmi105G from "../../../../assets/redmi/redmi10-5g.webp";
+import Redmi10A from "../../../../assets/redmi/redmi10a.webp";
+import Redmi10C from "../../../../assets/redmi/redmi10c.webp";
+import Redmi12C from "../../../../assets/redmi/redmi12c.webp";
+import Redmi9C from "../../../../assets/redmi/redmi9c.webp";
+import RedmiA1 from "../../../../assets/redmi/redmiA1.webp";
+import RedmiA2 from "../../../../assets/redmi/redmiA2.webp";
 
 // import SiteGoodsType from "../../Fragments/SiteGoodsType/SiteGoodsType";
 // import RedmiNote11 from "../../../assets/images/redmi/redmi-note11.webp";

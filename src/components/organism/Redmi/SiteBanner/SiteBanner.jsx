@@ -3,15 +3,9 @@ import BannerRedmi from "./BannerRedmi/BannerRedmi";
 import HeaderNote12 from "../../../../assets/redmi/header-redmi-note12.svg";
 import HeaderNote12Pro from "../../../../assets/redmi/header-redmi-note12pro.svg";
 import HeaderNote12Pro5G from "../../../../assets/redmi/header-redmi-note12pro5g.svg";
-import RedmiNote12 from "../../../../../public/redmi/redmi-note12-banner.webp";
-import RedmiNote12Pro from "../../../../../public/redmi/redmi-note12pro-banner.webp";
-import RedmiNote12Pro5G from "../../../../../public/redmi/redmi-note12pro5g-banner.webp";
-// import HeaderNote12 from "../../../assets/images/redmi/svg/header-redmi-note12.svg";
-// import HeaderNote12Pro from "../../../assets/images/redmi/svg/header-redmi-note12pro.svg";
-// import HeaderNote12Pro5G from "../../../assets/images/redmi/svg/header-redmi-note12pro5g.svg";
-// import RedmiNote12 from "../../../assets/images/redmi/redmi-note12-banner.webp";
-// import RedmiNote12Pro from "../../../assets/images/redmi/redmi-note12pro-banner.webp";
-// import RedmiNote12Pro5G from "../../../assets/images/redmi/redmi-note12pro5g-banner.webp";
+import RedmiNote12 from "../../../../assets/redmi/redmi-note12-banner.webp";
+import RedmiNote12Pro from "../../../../assets/redmi/redmi-note12pro-banner.webp";
+import RedmiNote12Pro5G from "../../../../assets/redmi/redmi-note12pro5g-banner.webp";
 
 const SiteBanner = () => {
   return (
